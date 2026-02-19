@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm sk7tin 👋
 
-<!--
-**sk7tin/sk7tin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Виктор Скутин** | AI/ML Alchemist | 13.02.1999  
 
-Here are some ideas to get you started:
+- 🔭 Currently diving into Python, Data Science & Machine Learning  
+- 🌱 Learning: Andrew Ng ML Specialization + Kaggle  
+- ⚡ Fun fact: My family literally discovered coal in 1871 — now turning data into energy  
+- 📫 Reach me: LinkedIn / Telegram (добавь ссылки)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Pinned Projects** (coming soon):  
+- AI-Numerologist  
+- House Price Predictor  
+- Text Sentiment Analyzer  
+
+Triple 7 energy: seeking truth in data ✨  
+Let's transform the world, one model at a time.
