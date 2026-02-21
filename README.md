@@ -15,5 +15,5 @@
 Triple 7 energy: seeking truth in data ✨  
 Let's transform the world, one model at a time.
 День 1 завершён! Первый код на Python запущен успешно.
-- [День 2: мини-нумеролог](Day2_sk7tin.ipynb)
+[День 2: мини-нумеролог](Day2_sk7tin.ipynb)
 
